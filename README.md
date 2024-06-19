@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Himani Goel
 ===================================================================================================================================
 
-full stack developer
+Full stack developer
 --------------------
 
 A final year student pursuing a Bachelor of Engineering at Thapar Institute of Engineering and Technology. Interested in web development and AI/ML.
@@ -10,7 +10,7 @@ A final year student pursuing a Bachelor of Engineering at Thapar Institute of E
 * ✉️  You can contact me at [goel.himani424@gmail.com](mailto:goel.himani424@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on unconventional & practical projects
-* ⚡  Don't tell anyone but i'm secretly a cheesecake hater
+* ⚡  I'm secretly a cheesecake hater.... but don't tell anyone
 
 ### Skills
 
